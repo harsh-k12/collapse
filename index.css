@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+.parent{
+    background-color: khaki;
+    width: 99%;  
+    border-color: black;
+    border-style: solid;
+}
+.child{
+    background-color: lightyellow;
+    width: 99%; 
+    border-color: red;
+    border-style: solid;
+}
